@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/logo.png
 contact_entries:
   - heading: Gary Partusch - President
     text: 402-990-7576 gary.partusch@bordendairy.com
