@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+
+{{ partial "nav" . }}
+
+<div class="ph3 bg-off-white">
+	<div class="center mw6 pv3">
+
+		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+
+		<div class="mb3">
+	        	{{ range .Params.document_entries }}
+				<div>
+                    <a class="f4 b lh-title mb2 primary" href="{{.link}}">{{.heading}}</a>
+				</div>
+			{{ end }}
+        </div>
+        
+        {{ .Content }}
+
+	</div>
+</div>
+
+{{ partial "footer" . }}
