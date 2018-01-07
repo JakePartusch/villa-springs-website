@@ -17,4 +17,4 @@ contact_entries:
       402-830-4443
       hank@schwarzcpa.com
 ---
-HOA Board Members
+**HOA Board Members**
