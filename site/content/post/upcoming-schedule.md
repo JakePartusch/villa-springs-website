@@ -1,12 +1,12 @@
 ---
-title: Upcoming Schedule of Events
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Spring events
+title: Upcoming Schedule of Events 2017
+date: 2017-04-01T09:04:10-05:00
+description: Upcoming Events 2017
 ---
+**Spring Cleanup -** May 13th-21st
 
-| Date               | Time          | Event          |
-| -------------      |:------------- | :--------------|
-| May 13-21          |               | Spring Cleanup |
-| June 26, 2017      | 6:00 PM       | Board Meeting  |
-| September 17, 2017 | 6:00 PM       | Fireworks      | 
+**Board Meeting - **June 26th 6:00PM
+
+**Fireworks - **July 3rd 9:45PM
+
+**Lake Picnic - **September 17th 3:00PM
