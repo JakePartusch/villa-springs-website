@@ -1,7 +1,7 @@
 ---
 title: Villa Springs
 subtitle: 'A lake community in Springfield, NE'
-image: /img/villa-springs2-960x640.jpg
+image: /img/c99498ed-.jpg
 blurb:
   heading: Welcome to Villa Springs Lake!
   text: >-
