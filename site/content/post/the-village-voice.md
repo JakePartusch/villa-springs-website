@@ -1,7 +1,7 @@
 ---
 title: The Villa Voice
 date: 2017-04-01T05:00:00.000Z
-description: First quarter 2017 Village Voice
+description: First quarter 2017 Villa Voice
 ---
 **SPRING CLEAN-UP**
 
