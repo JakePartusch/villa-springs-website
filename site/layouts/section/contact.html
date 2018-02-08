@@ -7,13 +7,22 @@
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
 
-		{{ .Content }}
+		<strong>HOA Board Members</strong>
 
 		<div class="mb3">
-	        	{{ range .Params.contact_entries }}
+			{{ range .Params.contact_entries }}
 				<div>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<p>{{ .phone }}</p>
+					<p>{{ .email }}</p>
+				</div>
+			{{ end }}
+		</div>
+		<strong>Board of Directors</strong>
+		<div class="mb3">
+			{{ range .Params.board_of_directors }}
+				<div>
+					<h4 class="f4 b lh-title mb2 primary">{{ .name }}<span>({{ .elect }})</span></h4>
 				</div>
 			{{ end }}
 		</div>

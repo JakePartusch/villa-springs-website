@@ -9,3 +9,5 @@ document_entries:
   - heading: Articles of Incorporation
     link: /img/Articles_of_Incorporation.pdf
 ---
+**Current Dues**
+_$470.75_
