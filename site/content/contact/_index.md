@@ -8,9 +8,9 @@ contact_entries:
   - heading: Aaron Klusmire - Vice President
     phone: 402-672-6191
     email: aklusmire@farmersnational.com
-  - heading: Jodi Kohl - Secretary
-    phone: 402-680-3271
-    email: jkohl7722@gmail.com
+  - heading: Andrea Nowka- Secretary
+    phone: 402-616-4480
+    email: andreanowka@gmail.com
   - heading: Hank Swartz- Treasurer
     phone: 402-830-4443
     email: hank@schwarzcpa.com

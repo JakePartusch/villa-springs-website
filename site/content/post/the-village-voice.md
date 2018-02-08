@@ -1,7 +1,7 @@
 ---
-title: The Village Voice
-date: 2017-04-01T00:00:00-05:00
-description: First quarter 2017 Village Voice
+title: The Villa Voice
+date: 2017-04-01T05:00:00.000Z
+description: First quarter 2017 Villa Voice
 ---
 **SPRING CLEAN-UP**
 
@@ -43,7 +43,7 @@ Unauthorized visitors have been fishing at the boat ramp.  It is planned to addr
 
 The Board will be dispatching a letter to homeowners regarding the expectations of complying with covenant and by-laws.  This letter will include a timeline for compliance.
 
-**KEY DATES;**
+**KEY DATES**
 
 \- Neighborhood Cleanup May 13th - 21st
 
