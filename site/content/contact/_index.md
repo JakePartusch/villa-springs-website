@@ -2,27 +2,28 @@
 title: Contact
 logo: /img/logo.png
 contact_entries:
-  - heading: Gary Partusch - President
-    phone: 402-990-7576 
-    email: gary.partusch@bordendairy.com
-  - heading: Aaron Klusmire - Vice President
+  - email: gary.partusch@grupolala.com
+    heading: Gary Partusch - President
+    phone: 402-990-7576
+  - email: aklusmire@farmersnational.com
+    heading: Aaron Klusmire - Vice President
     phone: 402-672-6191
-    email: aklusmire@farmersnational.com
-  - heading: Andrea Nowka- Secretary
+  - email: andreanowka@gmail.com
+    heading: Andrea Nowka- Secretary
     phone: 402-616-4480
-    email: andreanowka@gmail.com
-  - heading: Hank Swartz- Treasurer
+  - email: hank@schwarzcpa.com
+    heading: Hank Swartz- Treasurer
     phone: 402-830-4443
-    email: hank@schwarzcpa.com
 board_of_directors:
-  - name: Alan Hans
-    elect: 2019
-  - name: John Simonson
-    elect: 2019
-  - name: Dave Micheals
-    elect: 2018
-  - name: Brian Promes
-    elect: 2018
-  - name: Kelly Kleymann
-    elect: 2018
+  - elect: 2019
+    name: Alan Hans
+  - elect: 2019
+    name: John Simonson
+  - elect: 2018
+    name: Dave Micheals
+  - elect: 2018
+    name: Brian Promes
+  - elect: 2018
+    name: Kelly Kleymann
 ---
+
