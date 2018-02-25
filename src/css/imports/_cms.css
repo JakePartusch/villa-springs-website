@@ -62,7 +62,7 @@
 	& ul {
 		margin-left: 1.33rem;
 		& >li:before {
-			content: '✱';
+			content: '\2022';
 			left: -1.33rem;
 			position: absolute;
 			color: var(--primary);
