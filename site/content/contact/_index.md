@@ -12,7 +12,7 @@ contact_entries:
     heading: Andrea Nowka- Secretary
     phone: 402-616-4480
   - email: hank@schwarzcpa.com
-    heading: Hank Swartz- Treasurer
+    heading: Hank Schwarz- Treasurer
     phone: 402-830-4443
 board_of_directors:
   - elect: 2019
