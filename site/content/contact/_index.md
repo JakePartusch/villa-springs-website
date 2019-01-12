@@ -19,11 +19,11 @@ board_of_directors:
     name: Alan Hans
   - elect: 2019
     name: John Simonson
-  - elect: 2018
-    name: Dave Micheals
-  - elect: 2018
+  - elect: '2020'
+    name: Dan Lorraine
+  - elect: '2020'
     name: Brian Promes
-  - elect: 2018
+  - elect: '2020'
     name: Kelly Kleymann
 ---
 
