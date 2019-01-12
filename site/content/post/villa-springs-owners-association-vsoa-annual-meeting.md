@@ -1,8 +1,114 @@
 ---
 title: Villa Springs Owners Association (VSOA) Annual Meeting
-date: 2018-01-14T19:03:24.445Z
-description: Meeting minutes for 2017 Annual Meeting
+date: 2019-01-12T13:03:24-06:00
+description: Meeting minutes for 2018 Annual Meeting
 ---
+Villa Springs Owners Association Annual Meeting
+
+Springfield Legion Hall Springfield, NE November 4, 2018
+
+President call to Order: Gary Partusch
+
+The annual meeting of the Villa Springs Owners Association was called to order at 2:02 by President Gary Partusch.
+
+Annual Meeting Quorum Requirements
+
+There were a total of 45 homeowners represented (40 members and 5 proxy votes), which represents 50% of the members. 88 lots total
+
+All members present were asked to introduce themselves.
+
+Secretary's Report: Andrea Nowka
+
+The board will approve the minutes of this annual meeting at their next meeting. Board approved VSOA meeting minutes are posted on our website.
+
+Treasurer's Report: Hank Schwartz
+
+Reviewed Financial Report Handouts
+
+Burn pile cost is down from last year after the storm.
+
+$17,000 road construction fee is from last years bid for reconstruction of Lake View Drive.
+
+Proposed dues increase for road fund. (will discuss in new business) VSOA 2018-2019 budget was adopted. Treasurer's report attached.
+
+Committee Reports
+
+Fish-Aaron Klusmire
+
+\-No algae for 2 years in a row.
+
+\-Walleye will be added next week.
+
+\-Grass carp added again in Spring.
+
+\-Don't think we need to worry about Zebra Mussels. -REMINDER: NO boats on lake other than homeowners.
+
+Architectural- Alan Hans
+
+Please submit plans to the committee when you submit to the County. Everything needs to go through Floodplain Development, which takes about a month, so the committee will have time to approve.
+
+Social Committee-Jodi Kohl
+
+Christmas meeting Monday, November 5 at 6:30.
+
+Christmas party December 1. Invite will go in mail and email.
+
+Still no plans to do fireworks. Will plan on going year by year and see what we have in the budget.
+
+New Business:
+
+Covenant Compliance:
+
+A lot of improvements of the properties from the letters Gary had sent out.
+
+Burn Pile:
+
+Burn pile is a mess from last years storm still. Lots of rootballs there that will not burn. A letter will be sent out with the burn pile rules and regulations. Possibly close the burn pile in January and February to allow it to be pushed up/cleaned up and start from scratch in the spring. Was proposed to start a burn pile committee.
+
+Road Maintenance/Funding Discussion:
+
+\-Review the bylaws on roads, update to include standards that need to be met today.
+
+\-We need a 10-year plan, which would include Lakeview Drive.
+
+\-We got a bit from Asphalt Maintenance for doing an overlay of the entire lake for $320,000 without doing the sewer system.
+
+\-Looking to get a couple more bids.
+
+\-Proposal to increase dues of $500 per year per lot for a road maintenance fund. So dues would increase from $325 to $825 per year. Dues would be raised until a motion is made to decrease when we have enough of a balance in the Road Maintenance fund.
+
+\-Money would be set aside so funds were available when needed.
+
+\-Lakeview would be redone in 2019, would rebid then.
+
+\-Vote was 30-Yes, 17-No. Motion passed.
+
+\-New budget Adopted for 2019 to include the dues increase.
+
+Election of VSOA Officers:
+
+The term is now up for Vice President Aaron Klusmire. Nominations requested for Vice President to serve 2018-2020. Nominee Aaron Klusmire. By general consent Aaron Klusmire was elected Vice President.
+
+The term is now up for Treasurer Hank Schwartz. Nominations requested for Treasurer to server 2018-2020. Nominee Hank Schwartz. By general consent Hank Schwartz was elected Treasurer.
+
+The term is now up for Directors Dave Michaels, Kelly Kleymann and Bryan Promes.
+
+Nominations requested for Directors to serve 2018-2020. Nominees Kelly Kleymann,
+
+Dan Lorraine and Bryan Promes. By general consent, Kelly Kleymann, Dan Lorraine and Bryan Promes are elected Directors.
+
+Meeting adjourned at 3:18
+
+
+
+
+
+
+
+
+
+
+
 Springfield Legion Hall: Springfield, NE
 
 November 5, 2017
