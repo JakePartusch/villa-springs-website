@@ -2,9 +2,9 @@
 title: Contact
 logo: /img/logo.png
 contact_entries:
-  - email: gary.partusch@grupolala.com
+  - email: garypartusch@gmail.com
     heading: Gary Partusch - President
-    phone: 402-990-7576
+    phone: '4029907576'
   - email: aklusmire@farmersnational.com
     heading: Aaron Klusmire - Vice President
     phone: 402-672-6191
