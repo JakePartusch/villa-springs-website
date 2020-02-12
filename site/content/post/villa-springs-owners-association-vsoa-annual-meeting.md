@@ -1,233 +1,144 @@
 ---
 title: Villa Springs Owners Association (VSOA) Annual Meeting
-date: 2019-01-12T13:03:24-06:00
-description: Meeting minutes for 2018 Annual Meeting
+date: 2020-02-12T13:03:24-06:00
+description: Meeting minutes for 2019 Annual Meeting
 ---
 Villa Springs Owners Association Annual Meeting
 
-Springfield Legion Hall Springfield, NE November 4, 2018
+Springfield Legion Hall:Springfield, NE
+
+November 3, 2019
+
+
 
 President call to Order: Gary Partusch
 
 The annual meeting of the Villa Springs Owners Association was called to order at 2:02 by President Gary Partusch.
 
+
+
 Annual Meeting Quorum Requirements
 
-There were a total of 45 homeowners represented (40 members and 5 proxy votes), which represents 50% of the members. 88 lots total
+There were a total of 51 homeowners represented (45 members and 6 proxy votes), which represents 50% of the members.  88 lots total
 
-All members present were asked to introduce themselves.
 
-Secretary's Report: Andrea Nowka
 
-The board will approve the minutes of this annual meeting at their next meeting. Board approved VSOA meeting minutes are posted on our website.
 
-Treasurer's Report: Hank Schwartz
+
+Secretary’s Report:  Andrea Nowka
+
+The board will approve the minutes of this annual meeting at their next meeting. 
+
+Board approved VSOA meeting minutes are posted on our website.
+
+
+
+Treasurer’s Report: Hank Schwartz
 
 Reviewed Financial Report Handouts
 
-Burn pile cost is down from last year after the storm.
+Road maintenance was the big expense last year.  
 
-$17,000 road construction fee is from last years bid for reconstruction of Lake View Drive.
+Discussed having fireworks this year.  Was voted on but not aproved.
 
-Proposed dues increase for road fund. (will discuss in new business) VSOA 2018-2019 budget was adopted. Treasurer's report attached.
+VSOA 201-2020 budget was adopted.
+
+Treasurer’s report attached.
+
+
 
 Committee Reports
 
 Fish-Aaron Klusmire
 
-\-No algae for 2 years in a row.
+Lake quality was not great this year due to weather and the flood. Aaron sprayed multiple times, some weeds still persisted. They are easy to kill with the spray, however that does not mean they will not come back.  Aaron will spray individual lots as asked for, for a fee.  He will also send out an email in the spring notifying homeowners what we can use to treat on our own.  He will do better at notifying when he is going to spray.
 
-\-Walleye will be added next week.
+\-Wiper will be added in Spring.
 
-\-Grass carp added again in Spring.
+\-Electric survey will happen in the spring to see what fish we have and what came into the lake with the flood.  
 
-\-Don't think we need to worry about Zebra Mussels. -REMINDER: NO boats on lake other than homeowners.
+\-If there was ever any dangerous water content, Aaron would send out an email letting homeowners know.  
+
+\-REMINDER: NO boats on lake other than homeowners.  Talked about amending the bylaws requiring boats to be out of our lake for  3-7 days after they have been in another body of water.  This is to prevent zebra mussels coming into our lake.  Also needs to be a better way of watching the boat ramp to prevent people from putting in before this time. 
+
+
 
 Architectural- Alan Hans
 
-Please submit plans to the committee when you submit to the County. Everything needs to go through Floodplain Development, which takes about a month, so the committee will have time to approve.
+Please submit plans to Alan before you start a project.
 
-Social Committee-Jodi Kohl
 
-Christmas meeting Monday, November 5 at 6:30.
 
-Christmas party December 1. Invite will go in mail and email.
+Social Committee-Mandi Lackas
 
-Still no plans to do fireworks. Will plan on going year by year and see what we have in the budget.
+Book cub and progressive dinner sign ups available at front table.
+
+Christmas party December 7 with decorating the night before if anyone would like to help.
+
+
 
 New Business:
 
-Covenant Compliance:
 
-A lot of improvements of the properties from the letters Gary had sent out.
 
-Burn Pile:
+Burn Pile: 
 
-Burn pile is a mess from last years storm still. Lots of rootballs there that will not burn. A letter will be sent out with the burn pile rules and regulations. Possibly close the burn pile in January and February to allow it to be pushed up/cleaned up and start from scratch in the spring. Was proposed to start a burn pile committee.
+Burn pile is now open.  The key is the same as the boat ramp key.  Contractors are not allowed to use!  There is still some dirt work that needs to be done, but it is looking much better after clean up.
 
-Road Maintenance/Funding Discussion:
 
-\-Review the bylaws on roads, update to include standards that need to be met today.
 
-\-We need a 10-year plan, which would include Lakeview Drive.
+Lakeview Drive:
 
-\-We got a bit from Asphalt Maintenance for doing an overlay of the entire lake for $320,000 without doing the sewer system.
+The overlay of Lakeview Dr is complete pending a seal coat.  Kelly Kleyman is looking into the need of this and will update at the next board meeting.  Rest of the lake roads will be sealed in spring.  Going forward it is determined that the rest of the lake would not use the same process that was used to resurface Lakeview Dr.  Lakeview is much better now, but bumpy, so another process will be used. 
 
-\-Looking to get a couple more bids.
 
-\-Proposal to increase dues of $500 per year per lot for a road maintenance fund. So dues would increase from $325 to $825 per year. Dues would be raised until a motion is made to decrease when we have enough of a balance in the Road Maintenance fund.
 
-\-Money would be set aside so funds were available when needed.
+Trash Service:
 
-\-Lakeview would be redone in 2019, would rebid then.
+Our trash service contract is up July 1st.  There will be a slight increase in trash, and recycling would be an extra $9.00 per month.  The board will discuss this at the next board meeting to decide whether we will continue to use recycling.  Only about 50% of the lake residents use recycling now.
 
-\-Vote was 30-Yes, 17-No. Motion passed.
 
-\-New budget Adopted for 2019 to include the dues increase.
+
+Lake pump:
+
+The pump was rebuilt due to flood damage in the area underneath the pump.  That area now has a lock on it so that only approved people can open the pump.
+
+
+
+Open Discussion:
+
+We talked about flood control as a lake community.  When there is a flood watch, could we as a community come together to sandbag properties in danger of flooding.  A few homeowners on the river side are working on getting permits to reinforce the river side (their backyards) so as not to lose more property into the river due to flooding. 
+
+
+
+Also talk of cleaning up trees hanging over our roads.  Gary will send letters to property owners when the need arises, and he will work on cleaning up area near pump and boat dock.  
+
+
+
+Key Dates:
+
+\-Poker Float - TBD
+
+\-Lake Picnic - September 20th 
+
+\-FIsh Tournament/Fry - TBD
+
+\-Board Meetings:  February 10, May 18, September 7
+
+\-2020 Annual Meeting - Sunday November 1
+
+
+
+
 
 Election of VSOA Officers:
 
-The term is now up for Vice President Aaron Klusmire. Nominations requested for Vice President to serve 2018-2020. Nominee Aaron Klusmire. By general consent Aaron Klusmire was elected Vice President.
+The term is now up for President Gary Partusch. Nominations requested for  President to serve 2020-2021.  Nominee Gary Partusch. By general consent Gary Partusch was elected President. 
 
-The term is now up for Treasurer Hank Schwartz. Nominations requested for Treasurer to server 2018-2020. Nominee Hank Schwartz. By general consent Hank Schwartz was elected Treasurer.
+The term is now up for Secretary Andrea Nowka.  Nominations requested for Secretary to server 2020-2021.  Nominee Andrea Nowka.  By general consent Andrea Nowka was elected Secretary. 
 
-The term is now up for Directors Dave Michaels, Kelly Kleymann and Bryan Promes.
+The term is now up for Directors Alan Hans and John Simonson.  Nominations requested for Directors to serve 2020-2022.  Nominees Alan Hans, John Simonson, Terry Ficenec and Chad Nolte.  By general consent, Alan Hans and John Simonson are elected Directors. 
 
-Nominations requested for Directors to serve 2018-2020. Nominees Kelly Kleymann,
 
-Dan Lorraine and Bryan Promes. By general consent, Kelly Kleymann, Dan Lorraine and Bryan Promes are elected Directors.
 
-Meeting adjourned at 3:18
-
-
-
-
-
-
-
-
-
-
-
-Springfield Legion Hall: Springfield, NE
-
-November 5, 2017
-
-**PRESIDENT CALL TO ORDER:** Gary Partusch 
-
-The annual meeting of the Villa Springs Owners Association was called to order at 2:04pm by President Gary Partusch. 
-
-**ANNUAL MEETING QUORUM REQUIREMENTS**
-
-There were a total of 50 homeowners represented(46 members present and 4 proxy votes), which represents 56% of the members. 88 lots total
-
-The official Villa Springs Owners Association (VSOA) Bylaws were last revised and approved at the November 2, 2014 VSOA Annual Meeting. 
-
-Article III Members, Section 5 Quorum states 40% of the members present in person or by proxy at any regular or special meeting the members shall constitute a quorum for the transaction of business at any such meeting. 
-
-**WELCOME NEWCOMERS**: All members present were asked to introduce themselves.
-
-**SECRETARY’S REPORT**: Jodi Kohl 
-
-The board will approve the minutes of this annual meeting at their next scheduled meeting. 
-
- Reviewed Handouts: 
-
-* Agenda for today’s meeting
-* Board approved VSOA 11/6/16 Annual Meeting Minutes posted on our website: villaspringlake.com
-
-**TREASURER’S REPORT**: Hank Schwartz 
-
-Reviewed Financial Report Handouts
-
-* VSOA Balance Sheet as of 9/30/17
-* VSOA Profit & Loss Comparison 10/16-9/17
-
-Motion made to adopt the VSOA 2017-2018 budget as presented. Motion seconded. 
-
-Treasurer’s report attached. 
-
-**COMMITTEE REPORTS**
-
-FISH-Aaron Klusmire 
-
-Committee Members Include: Chairperson: Aaron Klusmire, Alan Hans, Gary Partusch, Shane Kohl
-
-Eric Stane, Bryan Promes, Duane David, Rob Hermsen, Ed Foral, Tim Thunn and Adam Nowka. 
-
-* The water has less clarity therefore anticipated to have less vegitation 
-* Chemical water treatments done in May & July
-* VSOA not responsible for individual lot treatments
-* Too many bass in lake; fishing tourney 140 removed
-* Wiper to be placed this fall; Walleye going in this week; 12”-15” Crappie present in lake 
-
-_Architectural_-Alan Hans 
-
-* No report
-* Please make submissions prior to project along with aerial views if possible.
-
-**NEW BUSINESS**
-
-_Social_-Jodi Kohl
-
-* Social & Welcome Committee will now be combined per vote at 10/17 board mtg
-* Christmas Party is 12/9/17 at Nowka’s garage
-
-_I/O Boat Discussion_-Gary Partusch
-
-* Boat committee met 3/17; no change to I/o regulations
-
-_Neighborhood Clean Up_- Gary Partusch 
-
-* Guidelines were not followed leading to excessive work for many homeowners and increased costs for VSOA. This service has been suspended.
-
-_Trash Pick Up_-Gary Partusch 
-
-* Effective July1, 2017 Papillion Sanitation was selected as primary waste contractor
-* Trash fees added to dues
-* Going well--minimal complaints
-
-_Lake Directory_-Gary Partusch
-
-* Spreadsheet of Villa Springs residents updated; Email Gary Partusch with any changes
-* Spreadsheet will serve as directory
-
-_Covenant Compliance_-Gary Partusch
-
-* Letter mailed out 5/17 to residents not in compliance
-* Small percentage of response to notification
-* Gary will meet with lawyer next week & organize next step of process
-
-**KEY DATES**:
-
-* Christmas Party: Saturday, December 9th, 2017
-* 4th of July Fireworks: Discussion held. Motion made to suspend fireworks and money to be put back into budget without regard to what it will be used for. Motion not carried. Motion made to suspend fireworks and money to be placed back into budget with the allocation of $4500 for neighborhood cleanup/improvements for 2017-2018. Motion carried. 
-* Poker Float: TBD
-* Picnic: September 16th, 2018
-* Fish Tournament: TBD
-* Board Meetings: February 26th, 2018, May 21st, 2018, September 10th, 2018
-* Annual Meeting: November 4th, 2018
-
-**OLD BUSINESS**
-
-Road Maintenance-Lakeview Drive-Bryan Promes
-
-Proposal for the VSOA to continue with engineering and resurfacing of all Lakeview Drive reviewed. Estimate from Thomson Dresen Dorner presented reviewed. Discussion held. 
-
-Motion made to approve engineering fees listed on provided document with cap of $15,000. Motion carried. 
-
-**ELECTION OF VSOA OFFICERS:**
-
-The term is now up for Gary Partusch, President. Nominations requested for President to serve 2017-2019. Nominee: Gary Partusch. Gary Partusch accepted. 
-
-The term is now up for Jodi Kohl, secretary. Nominations requested for Secretary to serve 2017-2019. Nominee: Andrea Nowka. Andrea Nowka accepted.
-
-**ELECTION OF VSOA DIRECTORS: **
-
-Terms are up for Directors, Alan Hans and John Simonson. The floor was opened up for nominations for 2 Directors for a 2 year term from 2017-2019. Nominees: Alan Hans & John Simonson. Alan Hans & John Simonson accepted. 
-
-**ADJOURNMENT**
-
-President Gary Partusch adjourned the meeting at 3:19pm as there was no other business to come before the membership. 
-
-Jodi Kohl, Secretary VSOA 11/2016-11/2017
+Meeting adjourned at 3:13
