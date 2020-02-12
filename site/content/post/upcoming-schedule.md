@@ -1,6 +1,6 @@
 ---
 title: Upcoming Schedule of Events 2020
-date: 2020-02-03T09:04:10-06:00
+date: 2020-02-03T15:04:10.000Z
 description: Upcoming Events 2020
 ---
 **Board Meetings**
@@ -19,6 +19,6 @@ description: Upcoming Events 2020
 
 **Annual Meeting**
 
-* November 3rd at 2pm
+* November 1st at 2pm
 
 **Christmas Party-TBD**
