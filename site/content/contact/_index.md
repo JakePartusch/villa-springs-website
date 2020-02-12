@@ -4,7 +4,7 @@ logo: /img/logo.png
 contact_entries:
   - email: garypartusch@gmail.com
     heading: Gary Partusch - President
-    phone: '4029907576'
+    phone: 402-990-7576
   - email: aklusmire@farmersnational.com
     heading: Aaron Klusmire - Vice President
     phone: 402-672-6191
