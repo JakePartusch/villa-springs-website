@@ -1,6 +1,6 @@
 ---
 title: Villa Springs Owners Association (VSOA) Annual Meeting
-date: 2020-02-12T13:03:24-06:00
+date: 2020-02-11T15:04:10.000Z
 description: Meeting minutes for the 2019 Annual Meeting
 ---
 Villa Springs Owners Association Annual Meeting
