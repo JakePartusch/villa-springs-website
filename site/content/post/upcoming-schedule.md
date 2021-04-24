@@ -1,7 +1,7 @@
 ---
 title: Upcoming Schedule of Events 2021
 date: 2020-02-03T15:04:10.000Z
-description: Upcoming Events 2020
+description: Upcoming Events 2021
 ---
 **Board Meetings**
 
