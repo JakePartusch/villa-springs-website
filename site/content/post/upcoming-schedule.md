@@ -1,24 +1,24 @@
 ---
-title: Upcoming Schedule of Events 2020
+title: Upcoming Schedule of Events 2021
 date: 2020-02-03T15:04:10.000Z
 description: Upcoming Events 2020
 ---
 **Board Meetings**
 
-* February 10th at 6pm
-* May 18th at 6pm
-* September 7th at 6pm
+* **TBD**
+
+**Taco Truck April 24th 4-8pm**
 
 **Poker float- TBD**
 
 **Lake Picnic** 
 
-* September 20th at 3pm
+* September 19th at 3pm
 
 **Fish Tournament/Fry-TBD**
 
 **Annual Meeting**
 
-* November 1st at 2pm
+* November 7th at 2pm
 
 **Christmas Party-TBD**
