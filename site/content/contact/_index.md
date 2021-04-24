@@ -15,15 +15,15 @@ contact_entries:
     heading: Hank Schwarz- Treasurer
     phone: 402-830-4443
 board_of_directors:
-  - elect: '2021'
+  - elect: '2022'
     name: Alan Hans
-  - elect: '2021'
+  - elect: '2022'
     name: John Simonson
-  - elect: '2020'
+  - elect: '2021'
     name: Dan Lorraine
-  - elect: '2020'
+  - elect: '2021'
     name: Brian Promes
-  - elect: '2020'
+  - elect: '2021'
     name: Kelly Kleymann
 ---
 
