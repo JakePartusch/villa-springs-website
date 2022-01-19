@@ -1,24 +1,26 @@
 ---
-title: Upcoming Schedule of Events 2021
-date: 2020-02-03T15:04:10.000Z
-description: Upcoming Events 2021
+title: Upcoming Schedule of Events 2022
+date: 2022-01-18T09:04:10-06:00
+description: Upcoming Events 2022
 ---
+**Special Meeting**
+
+* **May 1st at 2pm**
+
 **Board Meetings**
 
 * **TBD**
-
-**Taco Truck April 24th 4-8pm**
 
 **Poker float- TBD**
 
 **Lake Picnic** 
 
-* September 19th at 3pm
+* September 18th at 3pm
 
 **Fish Tournament/Fry-TBD**
 
 **Annual Meeting**
 
-* November 7th at 2pm
+* November 6th at 2pm
 
 **Christmas Party-TBD**
