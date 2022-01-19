@@ -19,11 +19,11 @@ board_of_directors:
     name: Alan Hans
   - elect: '2022'
     name: John Simonson
-  - elect: '2021'
-    name: Dan Lorraine
-  - elect: '2021'
+  - elect: '2023'
+    name: Chad Nolte
+  - elect: '2023'
     name: Brian Promes
-  - elect: '2021'
+  - elect: '2023'
     name: Kelly Kleymann
 ---
 
