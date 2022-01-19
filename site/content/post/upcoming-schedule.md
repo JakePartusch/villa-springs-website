@@ -15,12 +15,12 @@ description: Upcoming Events 2022
 
 **Lake Picnic** 
 
-* September 18th at 3pm
+* **September 18th at 3pm**
 
 **Fish Tournament/Fry-TBD**
 
 **Annual Meeting**
 
-* November 6th at 2pm
+* **November 6th at 2pm**
 
 **Christmas Party-TBD**
