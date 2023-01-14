@@ -1,7 +1,7 @@
 ---
-title: Villa Springs Owners Association (VSOA) Annual Meeting 11/7/2021
+title: Villa Springs Owners Association (VSOA) Annual Meeting 11/6/2022
 date: 2022-01-18T06:00:00.000Z
-description: Meeting minutes for the 2021 Annual Meeting
+description: Meeting minutes for the 2022 Annual Meeting
 ---
 
 
