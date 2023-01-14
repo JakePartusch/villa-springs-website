@@ -8,7 +8,7 @@ contact_entries:
   - email: aklusmire@farmersnational.com
     heading: Aaron Klusmire - Vice President
     phone: 402-672-6191
-  - email: terry@apollohames.com
+  - email: terry@apollohomes.com
     heading: Terry Ficenec- Secretary
     phone: 402-687-5643
   - email: hank@schwarzcpa.com
