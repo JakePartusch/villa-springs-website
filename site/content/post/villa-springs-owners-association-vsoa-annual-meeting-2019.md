@@ -1,164 +1,170 @@
 ---
 title: Villa Springs Owners Association (VSOA) Annual Meeting 11/7/2021
-date: 2022-01-18T00:00:00-06:00
+date: 2022-01-18T06:00:00.000Z
 description: Meeting minutes for the 2021 Annual Meeting
 ---
+
+
 Villa Springs Owners Association Annual Meeting
 
-Springfield Fire Department Hall: Springfield, NE
+Springfield Firefighters Hall, Springfield, NE
 
-November 7, 2021
+November 6, 2022
 
 President call to Order: Gary Partusch
 
-The annual meeting of the Villa Springs Owners Association was called to order at 2:00
+The annual meeting of the Villa Springs Owners Association was called to order at 2:01
 
 by President Gary Partusch.
 
 Annual Meeting Quorum Requirements
 
-There were a total of 43 homeowners represented (35 members and 8 proxy votes),
+There were a total of 52 homeowners represented (43 members and 9 proxy votes),
 
-which represents 49% of the members. 88 lots total
+which represents 50% of the members. 88 lots total
+
+Secretary’s Report: Andrea Nowka
+
+The board will approve the minutes of this annual meeting at their next meeting.
+
+Board approved VSOA meeting minutes are posted on our website.
 
 Treasurer’s Report: Hank Schwartz
 
-Reviewed Financial Reviewed
+Reviewed Financial Report Handouts
 
-New amount proposed in the budget to reflect what we plan to spend on a new entrance
+Bryan Promes made motion to add $10,000 to the budget for legal fees due to Mr
 
-sign. New sign proposed to be on the corner of 132nd and Buffalo Road
-
-Lake fish expense explained: This is fish we stock that won’t reproduce in the lake, ex.
-
-walleye.
+Rodney Brase suing the lake. Motion was passed.
 
 VSOA 2022-2023 budget was adopted.
 
 Treasurer’s report attached.
 
-Committee Reports
-
-Fish-Aaron Klusmire
-
-Lake was healthy this year. We do have to have some weeds as they balance out the
-
-bad algae. We will put in more grass carp this spring, they keep weeds down. Will add
-
-walleye soon, this fall.
-
-Aaron does a couple of weed sprays every spring and summer. It is up to the
-
-homeowner to treat their areas if they feel it’s necessary. Please use products that are
-
-labeled for lake water.
-
-Aaron will get a map added to the website that shows where the fish habitats are
-
-located.
-
-Architectural- Gary Partusch for Alan Hans
+Architectural- Alan Hans
 
 Please submit plans to Alan before you start a project.
 
+Rodney Brase wants to place a dock, which has been denied by the architectural
+
+committee and the board as it is not in the lakes best interest and safe to work where
+
+they want to place it. Rodney Brase is suing the lake for being denied. Architectural
+
+committee has given options that would work where the homeowner wants to place the
+
+dock. Mr Brase has rejected the alternate options offered by the Architectural
+
+Committee.
+
+Committee Reports
+
+Fish/Lake-Aaron Klusmire
+
+Lake was and is very low this year. Aaron only had to treat once this summer for
+
+weeds/algae. Water clarity is good in some areas, worse in others, but overall was a
+
+good summer for the lake as far as weeds and algae go. Fish are growing, which is
+
+good. Aaron added Walleye a week prior to the meeting.
+
+Aaron will add to the Lake website approved chemicals that can be used by
+
+homeowners to treat their areas to manage lake weeds.
+
+Reminder that when Aaron treats the lake, it has to be a calm, sunny day, so he can’t
+
+always plan that much in advance. He will always notify homeowners before treating,
+
+especially those who draw water from the Lake for lawn irrigation.
+
 New Business:
 
-Boat stickers:
+Burn Pile:
 
-Everyone needs to have these attached to their boats
+Burn pile is now closed and will be until the county starts giving burn permits again.
 
-Sanitation Sewer lines: Just an FYI that there are plans for these going in off of Buffalo
+Please do not add to the pile.
 
-road sometime in the near future.
+Road Maintenance Fund Next Steps:
 
-Trees: Homeowners need to make sure their trees are trimmed off the roads. Please
+Dues will stay the same until roads are complete. We are working towards the goal of
 
-make sure branches are trimmed up so that they are not hitting trucks coming through.
+resurfacing the entire lakes roads. So dues would be increased for 5+ years so that we
 
-Road Maintenance fund: This continues to build, $500 of annual dues goes towards
+have built up enough to cover the cost of the entire lake.
 
-this fund. Once we get a sufficient amount we will start getting bids for future road work.
+Considering doing a portion of a road since we are doing in stages. Could do North
 
-This will take some years to build up enough for that
+Shore Dr. and Sandy Point Road using current funds available at the 3rd quarter of
 
-Any spots that are in immediate need of repair, the board will look into a temporary fix
+2023.
 
-that would not include redoing the entire road itself.
+Kelly K. son has given him pricing so we have some idea as to what cost will be. We
 
-Covenant compliance: homeowners are to keep their properties looking neat and
+will need to get 2-3 more bids. His pricing right now is from $2.15/sft, but that depends
 
-cleaned up. This includes lakeside and roadside. Gary will speak with individuals
+on how much we do at once. Right now asphalt is $100/ton. All that depends on the
 
-separately who need to clean up their properties.
+time we actually move on getting something booked to be completed.
 
-Rules and Regulations and Bylaws: The board has discussed changes being made to
+Bryan P made motion to spend up to $200,000 on North Shore and Sandy Point in the
 
-the bylaws and realizes that some updates need to be made. A task force will be made
+3rd quarter of 2023, which would be after dues are collected next year. Motion passed.
 
-to discuss what we would like changed and bring to the board for discussion. We would
+Rules and Regulations:
 
-then need to have a special meeting to vote on these changes. Changing the bylaws
+Changes were adopted May 1, 2022 and are updated on the website.
 
-requires 51% attendance to vote on this, and cannot include proxies.
+By-Laws:
 
-Items mentioned for change include; boating speed limit overall, speed limit in
+Rules and Regulations took 7 months to get updated, thus the By-Laws were not
 
-channels, boats with skiers and tubers keeping so far away from shores and docks,
+updated last year. By-Laws committee sign up was available at the meeting for anyone
 
-times set for skiing and tubing.
+to sign up.
 
-The Rules and Regulations taskforce will meet to form their proposal to the board, with
+Key Dates:
 
-a meeting held by May 1, 2022.
-
-A bylaws taskforce will meet to form their proposal to the board, with those changes
-
-being voted on at the next annual meeting.
-
-Air BNB: There is one being advertised on the lake. Gary will check with legal to make
-
-sure this is ok and not going against our community rules.
-
-Key Dates 2022-2023:
-
-\-Christmas Party Saturday Dec ?, announced soon
+\-Christmas Party - TBD
 
 \-Poker Float - TBD
 
-\-Lake Picnic - September 18th
+\-Lake Picnic - September 17th
 
 \-FIsh Tournament/Fry - TBD
 
-\-Board Meetings: February 10, May 17, September 13
-
-\-2020 Annual Meeting - Sunday November 6
+\-2023 Annual Meeting - Sunday November 5th
 
 Election of VSOA Officers:
 
-The term is now up for Vice President Aaron Klusmire. Nominations requested for Vice
+The term is now up for President Gary Partusch. Nominations requested for President
 
-President to serve 2022-2024. Nominee Aaron Klusmire. By general consent Aaron
+to serve 2023-2025. Nominee Bryan Promes. By general consent Bryan Promes was
 
-Klusmire was elected Vice President.
+elected President.
 
-The term is now up for Treasurer Hank Schwarz. Nominations requested for Treasurer
+The term is now up for Secretary Andrea Nowka. Nominations requested for Secretary
 
-to serve 2022-2024. Nominee Hank Schwarz. By general consent Hank Schwarz was
+to serve 2023-2025. Nominee Terry Ficenec. By general consent Terry Ficenec was
 
-elected Treasurer.
+elected Secretary.
 
-The term is now up for Directors Kelly Kleymann, Dan Lorraine and Bryan Promes.
+The term is now up for Directors Alan Hans and John Simonson. Nominations
 
-Nominations requested for Directors to serve 2022-2024. Nominees are Bryan Promes,
+requested for Directors to serve 2023-2025. Nominees Alan Hans, Bill Gray, Todd
 
-Kelly Kleymann, Bill Gray and Chad Nolte. By general consent, Chad Nolte, Bryan
+Mach, Tab Newman and Herb Beam. By vote, Alan Hans, Bill Gray and Tab Newman
 
-Promes and Kelly Kleymann are elected Directors.
+are elected Directors. All 3 board members were nominated to 2 year terms.
 
 Open Discussion:
 
-Dumpster for lake cleanup: We do not have this budgeted as it is abused.
+\-Any complaints need to be filed to the compliance committee. Must be done in
 
-Fireworks: Also not budgeted. Last time it was voted to not have the lake pay for this.
+writing/email, to Bryan P., Todd M., Rodney B., or Russ M.
 
-Meeting adjourned at 3:24
+\-Dredging is up to the homeowner if they want their beach area dredged.
+
+Meeting adjourned at 3:19
