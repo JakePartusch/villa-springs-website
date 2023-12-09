@@ -10,7 +10,7 @@ contact_entries:
     phone: 402-672-6191
   - email: terry@apollohomes.com
     heading: Terry Ficenec- Secretary
-    phone: 402-687-5643
+    phone: 402-677-5643
   - email: hank@schwarzcpa.com
     heading: Hank Schwarz- Treasurer
     phone: 402-830-4443
@@ -19,11 +19,11 @@ board_of_directors:
     name: Alan Hans
   - elect: '2024'
     name: Bill Gray
-  - elect: '2023'
+  - elect: '2025'
     name: Chad Nolte
   - elect: '2024'
     name: Tab Newman
-  - elect: '2023'
-    name: Kelly Kleymann
+  - elect: '2025'
+    name: Julie Peterson
 ---
 
