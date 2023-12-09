@@ -1,170 +1,316 @@
 ---
-title: Villa Springs Owners Association (VSOA) Annual Meeting 11/6/2022
-date: 2022-01-18T06:00:00.000Z
+title: Villa Springs Owners Association (VSOA) Annual Meeting 11/5/2023
+date: 2022-12-11T00:00:00-06:00
 description: Meeting minutes for the 2022 Annual Meeting
 ---
+VILLA SPRINGS OWNERS ASSOCIATION (VSOA) ANNUAL MEETING
 
 
-Villa Springs Owners Association Annual Meeting
 
-Springfield Firefighters Hall, Springfield, NE
+SPRINGFIELD VOLUNTEER FIRE DEPARTMENT
 
-November 6, 2022
 
-President call to Order: Gary Partusch
 
-The annual meeting of the Villa Springs Owners Association was called to order at 2:01
+NOVEMBER 5, 2023
 
-by President Gary Partusch.
 
-Annual Meeting Quorum Requirements
 
-There were a total of 52 homeowners represented (43 members and 9 proxy votes),
+CALL TO ORDER: The annual meeting of the VSOA was called to order by President Bryan
 
-which represents 50% of the members. 88 lots total
+Promes at 2:00 PM.
 
-Secretary’s Report: Andrea Nowka
+ATTENDANCE: There was a total of 44 homeowners represented (30 present and 14 by Proxy)
 
-The board will approve the minutes of this annual meeting at their next meeting.
+which represents 52% of 85 homeowners. A quorum was present.
 
-Board approved VSOA meeting minutes are posted on our website.
+WELCOME NEW AND EXISTING MEMBERS: All members present introduced themselves by
 
-Treasurer’s Report: Hank Schwartz
+name and lot number.
 
-Reviewed Financial Report Handouts
+SECRETARYS REPORT: Minutes from November 6, 2022, Annual Meeting were approved by the
 
-Bryan Promes made motion to add $10,000 to the budget for legal fees due to Mr
+Board at their June 15, 2023, public meeting.
 
-Rodney Brase suing the lake. Motion was passed.
+TREASURERS REPORT: Treasurer Hank Schwarz reviewed financial handouts.
 
-VSOA 2022-2023 budget was adopted.
+1. Balance Sheet as of September 30, 2023
 
-Treasurer’s report attached.
+2. Profit and Loss as of September 30, 2023
 
-Architectural- Alan Hans
+3. Proposed Budget for October 1, 2023, to September 30, 2024
 
-Please submit plans to Alan before you start a project.
+a. MOTION made to add $250 for the Fish Tournament by Whitney Lichtenberg
 
-Rodney Brase wants to place a dock, which has been denied by the architectural
+and seconded by Diana Foral. MOTION PASSED. Budget approved.
 
-committee and the board as it is not in the lakes best interest and safe to work where
 
-they want to place it. Rodney Brase is suing the lake for being denied. Architectural
 
-committee has given options that would work where the homeowner wants to place the
+COMMITTEE REPORTS
 
-dock. Mr Brase has rejected the alternate options offered by the Architectural
+1. Architectural Committee: In the absence of Alan Hans President Bryan Promes reported.
 
-Committee.
+a. All pools that were in non – compliance have been addressed and informed that
 
-Committee Reports
+the need for and process to get Flood Plain approval and County Permits are
 
-Fish/Lake-Aaron Klusmire
+required and can take a significant amount of time to acquire.
 
-Lake was and is very low this year. Aaron only had to treat once this summer for
 
-weeds/algae. Water clarity is good in some areas, worse in others, but overall was a
 
-good summer for the lake as far as weeds and algae go. Fish are growing, which is
+2. Fish and Lake Committee: Aaron Klusmire
 
-good. Aaron added Walleye a week prior to the meeting.
+a. Aaron reported that the Blue/Green Algae was sprayed for in late May and is
 
-Aaron will add to the Lake website approved chemicals that can be used by
+down from 2 years ago. It was noted that some weeds are needed to benefit the
 
-homeowners to treat their areas to manage lake weeds.
+survival of smaller fish. Each homeowner is responsible for the maintenance of
 
-Reminder that when Aaron treats the lake, it has to be a calm, sunny day, so he can’t
+weeds off their beach/seawall areas.
 
-always plan that much in advance. He will always notify homeowners before treating,
+b. Catfish and Walleye have been added to the lake.
 
-especially those who draw water from the Lake for lawn irrigation.
+3. Social Committee: In the absence of Brenda Promes President Bryan Promes reported.
 
-New Business:
+a. Halloween Gathering: Went very well with 51 “kiddos” signed up. Assistance in
 
-Burn Pile:
+organizing and managing this event was requested.
 
-Burn pile is now closed and will be until the county starts giving burn permits again.
+b. 2023 Christmas Gathering: Chad Nolte has graciously offered host this year’s
 
-Please do not add to the pile.
+gathering at his establishment in Springfield on December 2nd. More information
 
-Road Maintenance Fund Next Steps:
+to follow via email.
 
-Dues will stay the same until roads are complete. We are working towards the goal of
 
-resurfacing the entire lakes roads. So dues would be increased for 5+ years so that we
 
-have built up enough to cover the cost of the entire lake.
+4. Compliance Committee: President Bryan Promes reported.
 
-Considering doing a portion of a road since we are doing in stages. Could do North
+a. Boat Stickers: 19 have been requested and issued along with documentation of
 
-Shore Dr. and Sandy Point Road using current funds available at the 3rd quarter of
+the boat and motor type. If anyone needs a sticker as required, please contact
 
-2023.
+Bryan.
 
-Kelly K. son has given him pricing so we have some idea as to what cost will be. We
+b. Lot 35 compliance complaint was addressed and resolved.
 
-will need to get 2-3 more bids. His pricing right now is from $2.15/sft, but that depends
+c. Pools: 3- Non-conformance complaints (Lots 41, 71, & 75) have been addressed.
 
-on how much we do at once. Right now asphalt is $100/ton. All that depends on the
+d. Boating Issues: Non-Compliance with Boating Rules and Regulations were
 
-time we actually move on getting something booked to be completed.
+addressed and handled in an amicably manner with positive outcomes.
 
-Bryan P made motion to spend up to $200,000 on North Shore and Sandy Point in the
 
-3rd quarter of 2023, which would be after dues are collected next year. Motion passed.
 
-Rules and Regulations:
+OLD BUSINESS
 
-Changes were adopted May 1, 2022 and are updated on the website.
+1. Board of Directors met 3 times in 2023.
 
-By-Laws:
+a. February 21, 2023: Closed Meeting
 
-Rules and Regulations took 7 months to get updated, thus the By-Laws were not
+b. June 15, 2023: Open Meeting
 
-updated last year. By-Laws committee sign up was available at the meeting for anyone
+c. August 2, 2023: Closed Meeting
 
-to sign up.
+d. Closed meetings were required due to the sensitive nature of the meetings
 
-Key Dates:
+regarding the pending lawsuit of Brase vs VSOA.
 
-\-Christmas Party - TBD
 
-\-Poker Float - TBD
 
-\-Lake Picnic - September 17th
+2. Brase vs VSOA:
 
-\-FIsh Tournament/Fry - TBD
 
-\-2023 Annual Meeting - Sunday November 5th
 
-Election of VSOA Officers:
+a. $3,075.00 has been spent to date defending the Association.
 
-The term is now up for President Gary Partusch. Nominations requested for President
+b. Litigation is ongoing at this point.
 
-to serve 2023-2025. Nominee Bryan Promes. By general consent Bryan Promes was
 
-elected President.
 
-The term is now up for Secretary Andrea Nowka. Nominations requested for Secretary
+3. Burn Pile:
 
-to serve 2023-2025. Nominee Terry Ficenec. By general consent Terry Ficenec was
 
-elected Secretary.
 
-The term is now up for Directors Alan Hans and John Simonson. Nominations
+a. Will remain Open.
 
-requested for Directors to serve 2023-2025. Nominees Alan Hans, Bill Gray, Todd
+a. All members will receive 24-hour notice via email when burning is to
 
-Mach, Tab Newman and Herb Beam. By vote, Alan Hans, Bill Gray and Tab Newman
+take place.
 
-are elected Directors. All 3 board members were nominated to 2 year terms.
+b. NO GRASS CLIPPINGS, LEAVES OR ROOT BALLS ARE PERMITTED.
 
-Open Discussion:
 
-\-Any complaints need to be filed to the compliance committee. Must be done in
 
-writing/email, to Bryan P., Todd M., Rodney B., or Russ M.
+4. Tree Trimming
 
-\-Dredging is up to the homeowner if they want their beach area dredged.
 
-Meeting adjourned at 3:19
+
+a. Boat Dock: Approximately 3 trees will be removed. Anyone wanting
+
+firewood should contact Bryan.
+
+b. Private Trees: Those hanging over the road must be trimmed back by
+
+the homeowner.
+
+5. Grass Clippings and Leaves
+
+
+
+a. Do not dispose into the lake or intentionally leave on the streets.
+
+
+
+6. Road Resurfacing
+
+
+
+a. North Shore Drive and Sandy Point Road: Milling and resurfacing was
+
+completed in September 2023.
+
+b. Cottonwood Lane: Patches were performed in areas of current need.
+
+c. Total cost: $176,936.00 by ManMann Asphalt.
+
+d. Maintenance: Will be placed on an ongoing schedule to preserve the
+
+life and integrity of the new surfaces.
+
+
+
+7. Road Assessment Dues: Julie Peterson
+
+
+
+a. The 2018 Annual Owners Minutes were read by President Promes that
+
+addressed the approval of an “ongoing” annual assessment for road
+
+
+
+repairs and replacement. Annual Dues was raised from $325/year to
+
+$825/year. The assessment will remain in place until a motion is made
+
+and passed at an annual VSOA meeting to decrease/remove this
+
+assessment.
+
+A MOTION was made by Chuck Phillips and seconded by Shari Nolte that
+
+this account be limited to an aggregate total not to exceed $400,000.00.
+
+Discussion followed and a vote was taken. The MOTION failed.
+
+b. Cottonwood Lane: The current ESTIMATE to mill and resurface is
+
+$321,000.00. Our Road Improvement fund currently has a balance of
+
+$92,000.00. Thus, the annual $500.00/lot (85) will stay in place until
+
+such time as funds are available to do improvement work on it. The
+
+estimated lifespan of Cottonwood Lane, after the repairs that have been
+
+done, is 6-8 years. It was noted that Lakeview Drive has been in place
+
+for perhaps 50-60 years and had minor repairs done in 2019.
+
+Cottonwood Lane has provided approximately 25 years of service.
+
+c. Lakeview Drive: It will need the same treatment in the future.
+
+d. Road Maintenance: Secretary Ficenec provided President Promes with
+
+an email from ManMann Asphalt detailing recommended maintenance
+
+for the new surfaces on North Shore Drive and Sandy Point Road. It was
+
+decided that Secretary Ficenec will solicit a bid from ManMann to
+
+service ALL our roads from here on out to preserve their life expectancy.
+
+
+
+8. Bylaws Review Committee: A sign up sheet was provided.
+
+
+
+Those who signed up are: Rodney Brase and Chuck Phillips. Secretary Ficenec will
+
+chair this committee.
+
+
+
+NEW BUSINESS
+
+1. 4
+
+th of July Firework: Diana Foral spoke regarding the cost and liability. The past budget
+
+was $4,500.00 before discontinuing. Diana made a MOTION to allocate $1,500.00 from
+
+the Lake Fund. Whitney Lichtenberg seconded. Discussion ensued. Diana amended the
+
+MOTION to add a line item to the 2023/24 budget of $1,500.00. Shari Nolte seconded.
+
+Discussion ensued. Vote was taken. MOTION PASSED.
+
+2. VSOA Clean Up: Diana Foral spoke about the need for the Association to provide a
+
+means for owners to dispose of items from their property that do not belong in the burn
+
+pile to enhance the appearance of our community. MOTION was made by Diana and
+
+seconded by Shari Nolte. Discussion followed. It was decided to have a (1) day
+
+community clean up day on the first Saturday of May. The Dumpster is to be placed in a
+
+location “To Be Determined” and be monitored continuously to deter unwanted
+
+materials or non-resident “donations”. MOTION PASSED. Chad Nolte volunteered to be
+
+available as a monitor and asked for others to assist.
+
+
+
+3. Election of Officers/Board Members
+
+a. President Promes requested nominations from the members.
+
+i. Vice President: Aaron Klusmire was nominated. He accepted the
+
+
+
+nomination. No other nominations were offered. Aaron Klusmire was re-
+
+elected for 2 years.
+
+
+
+ii. Treasurer: Hank Schwarz was nominated. He accepted the nomination.
+
+No other nominations were offered. Hank Schwarz was re-elected for 2
+
+years.
+
+iii. Board members: Two openings.
+
+1. Chad Nolte was nominated. He accepted.
+
+2. Julie Peterson was nominated. She accepted.
+
+3. No other nominations were offered.
+
+4. Chad and Julie were elected to fill (2) year positions on the board.
+
+
+
+ADJOURNMENT
+
+1. Karen Ficenec motioned for adjournment. Seconded. MOTION PASSED 4:10 PM.
+
+Report respectfully submitted by Secretary Terry Ficenec
+
+November 5, 2023
