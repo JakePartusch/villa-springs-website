@@ -1,22 +1,24 @@
 ---
-title: Upcoming Schedule of Events 2023
-date: 2022-01-18T15:04:10.000Z
-description: Upcoming Events 2023
+title: Upcoming Schedule of Events 2024
+date: 2022-12-11T09:04:10-06:00
+description: Upcoming Events 2024
 ---
 **Board Meetings**
 
 * **TBD**
 
+**4th of July Parade/Fireworks-TBD**
+
 **Poker float- TBD**
 
 **Lake Picnic** 
 
-* **September 17th at 3pm**
+* **September 15th at 3pm**
 
 **Fish Tournament/Fry-TBD**
 
 **Annual Meeting**
 
-* **November 5th at 2pm**
+* **November 3rd at 2pm**
 
 **Christmas Party-TBD**
