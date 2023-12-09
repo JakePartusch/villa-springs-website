@@ -1,6 +1,6 @@
 ---
 title: Upcoming Schedule of Events 2024
-date: 2022-12-11T09:04:10-06:00
+date: 2023-12-09T09:04:10-06:00
 description: Upcoming Events 2024
 ---
 **Board Meetings**
