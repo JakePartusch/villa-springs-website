@@ -11,4 +11,5 @@ document_entries:
 ---
 ## Current Dues
 
-_$825. If members have trash service, it is an additional $235. Trash service is provided by Villa Springs_
+*$825*  
+*If members have trash service, it is an additional $235. Trash service is provided by Villa Springs.*
