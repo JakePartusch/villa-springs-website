@@ -1,0 +1,15 @@
+---
+import { getPublishedPosts, formatDate, postPath } from '../lib/posts';
+
+const posts = await getPublishedPosts();
+---
+
+<ul class="card-grid news-list">
+  {posts.map(({ id, data }) => (
+    <li class="card">
+      <time datetime={data.date.toISOString()}>{formatDate(data.date)}</time>
+      <h3><a href={postPath(id)}>{data.title}</a></h3>
+      <p>{data.description}</p>
+    </li>
+  ))}
+</ul>

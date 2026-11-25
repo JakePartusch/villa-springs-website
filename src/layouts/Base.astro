@@ -1,0 +1,58 @@
+---
+import '../styles/site.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Villa Springs is a private lake community in Springfield, Nebraska.' } = Astro.props;
+const pageTitle = title === 'Villa Springs' ? title : `${title} | Villa Springs`;
+const nav = [
+  { label: 'Home', href: '/' },
+  { label: 'News', href: '/post/' },
+  { label: 'Documents', href: '/documents/' },
+  { label: 'Contact', href: '/contact/' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" href="/img/favicon.ico" />
+    <link rel="apple-touch-icon" href="/img/apple-icon.png" />
+    <link rel="alternate" type="application/rss+xml" title="Villa Springs News" href="/post/index.xml" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="/" aria-label="Villa Springs home">
+          <img src="/img/logo.png" width="1100" height="678" alt="Villa Springs" />
+        </a>
+        <nav aria-label="Main navigation">
+          <ul class="nav-list">
+            {nav.map(({ label, href }) => {
+              const current = Astro.url.pathname === href;
+              const inSection = href !== '/' && Astro.url.pathname.startsWith(href);
+              return <li><a href={href} class:list={{ active: current || inSection }} aria-current={current ? 'page' : undefined}>{label}</a></li>;
+            })}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main-content"><slot /></main>
+    <footer class="site-footer">
+      <div class="wrap footer-inner">
+        <div><strong>Villa Springs</strong><br />Springfield, Nebraska</div>
+        <nav aria-label="Footer navigation">
+          <ul class="nav-list">{nav.map(({ label, href }) => <li><a href={href}>{label}</a></li>)}</ul>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

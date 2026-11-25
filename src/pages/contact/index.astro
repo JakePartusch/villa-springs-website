@@ -1,0 +1,61 @@
+---
+import Base from '../../layouts/Base.astro';
+import { frontmatter as contact } from '../../content/pages/contact.md';
+
+interface Officer {
+  heading: string;
+  phone: string;
+  email: string;
+}
+interface Director {
+  name: string;
+  elect: string;
+}
+---
+
+<Base title={contact.title} description="Contact the Villa Springs Owners Association and find current board members.">
+  <div class="wrap section">
+    <header class="page-heading">
+      <p class="eyebrow">Owners Association</p>
+      <h1>{contact.title}</h1>
+    </header>
+    <div class="contact-grid">
+      <div class="contact-directory">
+        <section class="card">
+          <h2>HOA Board Members</h2>
+          <ul class="directory">
+            {contact.contact_entries.map(({ heading, phone, email }: Officer) => (
+              <li>
+                <strong>{heading}</strong>
+                <a href={`tel:+1${phone.replace(/\D/g, '')}`}>{phone}</a>
+                <a href={`mailto:${email}`}>{email}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+        <section class="card">
+          <h2>Board of Directors</h2>
+          <ul class="directory directors">
+            {contact.board_of_directors.map(({ name, elect }: Director) => (
+              <li><strong>{name}</strong><span>Term through {elect}</span></li>
+            ))}
+          </ul>
+        </section>
+      </div>
+      <section class="card">
+        <h2>Drop us a line</h2>
+        <form name="contact" method="POST" action="/contact/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact" />
+          <p hidden><label>Leave this field blank <input name="bot-field" /></label></p>
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" autocomplete="name" required />
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" autocomplete="email" required />
+          <label for="message">Your message</label>
+          <textarea id="message" name="message" rows="7" required></textarea>
+          <button type="submit">Send message</button>
+        </form>
+      </section>
+    </div>
+  </div>
+</Base>

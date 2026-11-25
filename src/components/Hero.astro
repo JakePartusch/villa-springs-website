@@ -1,0 +1,20 @@
+---
+interface Props {
+  title: string;
+  subtitle?: string;
+  image: string;
+  label: string;
+  compact?: boolean;
+}
+
+const { title, subtitle, image, label, compact = false } = Astro.props;
+---
+
+<section class:list={['hero', { 'hero-compact': compact }]}>
+  <img src={image} alt="" fetchpriority="high" />
+  <div class="wrap hero-inner">
+    <p class="eyebrow">{label}</p>
+    <h1>{title}</h1>
+    {subtitle && <p class="hero-subtitle">{subtitle}</p>}
+  </div>
+</section>

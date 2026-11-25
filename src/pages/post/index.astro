@@ -1,0 +1,13 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/Hero.astro';
+import NewsList from '../../components/NewsList.astro';
+---
+
+<Base title="News" description="Villa Springs community events, announcements, and meeting minutes.">
+  <Hero title="Latest News" image="/img/villa-springs2-960x640.jpg" label="Villa Springs" compact />
+  <section class="wrap section">
+    <h2 class="section-title">Community updates</h2>
+    <NewsList />
+  </section>
+</Base>

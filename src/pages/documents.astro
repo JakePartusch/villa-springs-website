@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import { Content, frontmatter as documents } from '../content/pages/documents.md';
+---
+
+<Base title={documents.title} description="Villa Springs governing documents, rules, and association dues.">
+  <div class="wrap narrow section">
+    <header class="page-heading">
+      <p class="eyebrow">Owners Association</p>
+      <h1>{documents.title}</h1>
+    </header>
+    <ul class="document-list">
+      {documents.document_entries.map(({ heading, link }: { heading: string; link: string }) => (
+        <li><a class="card document-link" href={link}><span>{heading}</span><span class="file-type">PDF <span aria-hidden="true">↗</span></span></a></li>
+      ))}
+    </ul>
+    <section class="card dues prose">
+      <Content />
+    </section>
+  </div>
+</Base>

@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/Hero.astro';
+import NewsList from '../components/NewsList.astro';
+import { frontmatter as home } from '../content/pages/home.md';
+---
+
+<Base title={home.title} description={home.subtitle}>
+  <Hero title={home.title} subtitle={home.subtitle} image={home.image} label="Springfield, Nebraska" />
+  <section class="wrap section welcome">
+    <p class="eyebrow">Our community</p>
+    <h2>{home.blurb.heading}</h2>
+    <p>{home.blurb.text}</p>
+  </section>
+  <section class="section tinted">
+    <div class="wrap">
+      <div class="section-heading">
+        <h2>Latest news</h2>
+        <a href="/post/">View all news <span aria-hidden="true">→</span></a>
+      </div>
+      <NewsList />
+    </div>
+  </section>
+</Base>
