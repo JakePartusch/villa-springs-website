@@ -1,0 +1,124 @@
+media:
+  input: public/img
+  output: /img
+  extensions: [jpg, jpeg, png, webp, gif, pdf]
+  rename: false
+
+settings:
+  content:
+    merge: true
+
+content:
+  - name: news
+    label: News & Events
+    type: collection
+    path: src/content/posts
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    subfolders: false
+    operations:
+      rename: false
+      delete: false
+    view:
+      primary: title
+      fields: [title, date]
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Publish date
+        type: date
+        required: true
+        description: Use the current date and time to publish now. Put event dates in the post itself.
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+      - name: description
+        label: Short summary
+        type: text
+        required: true
+      - name: image
+        label: Cover image
+        type: image
+      - name: body
+        label: Post
+        type: rich-text
+        required: true
+
+  - name: contact
+    label: Board & Contact
+    type: file
+    path: src/content/pages/contact.md
+    format: yaml-frontmatter
+    fields:
+      - name: contact_entries
+        label: HOA officers
+        type: object
+        list:
+          min: 1
+          collapsible: { collapsed: true, summary: "{heading}" }
+        fields:
+          - { name: heading, label: Name and role, type: string, required: true }
+          - { name: phone, label: Phone, type: string, required: true }
+          - { name: email, label: Email, type: string, required: true }
+      - name: board_of_directors
+        label: Board of Directors
+        type: object
+        list:
+          min: 1
+          collapsible: { collapsed: true, summary: "{name} ({elect})" }
+        fields:
+          - { name: name, label: Name, type: string, required: true }
+          - name: elect
+            label: Term through
+            type: string
+            required: true
+            pattern:
+              regex: '^[0-9]{4}$'
+              message: Enter a four-digit year.
+
+  - name: documents
+    label: Documents & Dues
+    type: file
+    path: src/content/pages/documents.md
+    format: yaml-frontmatter
+    fields:
+      - name: document_entries
+        label: Governing documents
+        type: object
+        list:
+          min: 1
+          collapsible: { collapsed: true, summary: "{heading}" }
+        fields:
+          - { name: heading, label: Document title, type: string, required: true }
+          - name: link
+            label: PDF file
+            type: file
+            required: true
+            options:
+              extensions: [pdf]
+      - name: body
+        label: Current dues
+        type: rich-text
+        required: true
+
+  - name: home
+    label: Homepage
+    type: file
+    path: src/content/pages/home.md
+    format: yaml-frontmatter
+    fields:
+      - { name: subtitle, label: Subtitle, type: string, required: true }
+      - { name: image, label: Hero photo, type: image, required: true }
+      - name: blurb
+        label: Welcome section
+        type: object
+        fields:
+          - { name: heading, label: Heading, type: string, required: true }
+          - { name: text, label: Welcome text, type: text, required: true }
