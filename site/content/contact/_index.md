@@ -15,15 +15,14 @@ contact_entries:
     heading: Hank Schwarz- Treasurer
     phone: 402-830-4443
 board_of_directors:
-  - elect: '2024'
+  - elect: '2028'
     name: Alan Hans
-  - elect: '2024'
-    name: Bill Gray
-  - elect: '2025'
+  - elect: '2028'
+    name: Todd Mach
+  - elect: '2027'
     name: Chad Nolte
-  - elect: '2024'
-    name: Tab Newman
-  - elect: '2025'
+  - elect: '2028'
+    name: Chuck Phillips
+  - elect: '2027'
     name: Julie Peterson
 ---
-
